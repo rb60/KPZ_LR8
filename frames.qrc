@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/frames">
+        <file>fish1frame1.png</file>
+        <file>fish1frame2.png</file>
+        <file>fish1frame3.png</file>
+        <file>fish2frame1.png</file>
+        <file>fish2frame2.png</file>
+        <file>fish2frame3.png</file>
+        <file>fish3frame1.png</file>
+        <file>fish3frame2.png</file>
+        <file>fish3frame3.png</file>
+    </qresource>
+</RCC>
